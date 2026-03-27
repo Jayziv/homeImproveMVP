@@ -1,0 +1,49 @@
+{
+  "_comment": "Rank Math SEO recommended settings for affiliate site",
+  "general": {
+    "site_name": "HomeProChoice",
+    "separator": "|",
+    "title_format": "%title% (%currentyear%) %sep% %sitename%",
+    "description_format": ""
+  },
+  "homepage": {
+    "title": "HomeProChoice — Home Improvement Tools, Reviews & Guides",
+    "description": "Expert home improvement tool reviews, buyer guides, and how-to articles. Find the best tools for every project."
+  },
+  "post_types": {
+    "post": {
+      "title": "%title% (%currentyear%) %sep% %sitename%",
+      "description": "%excerpt%",
+      "schema_type": "Article"
+    },
+    "page": {
+      "title": "%title% %sep% %sitename%",
+      "description": "%excerpt%",
+      "schema_type": "WebPage"
+    }
+  },
+  "categories": {
+    "title": "%term% Reviews & Guides %sep% %sitename%",
+    "description": ""
+  },
+  "sitemap": {
+    "include_images": true,
+    "include_post_types": ["post", "page"],
+    "exclude_post_types": [],
+    "items_per_page": 200
+  },
+  "schema_defaults": {
+    "article_type": "Article",
+    "review_type": "Review",
+    "howto_type": "HowTo",
+    "itemlist_type": "ItemList"
+  },
+  "local_seo": {
+    "enabled": false,
+    "_comment": "Enable if adding local business info later"
+  },
+  "robots": {
+    "noindex": ["category", "tag", "author", "date"],
+    "_comment": "Noindex archive pages to avoid duplicate content"
+  }
+}

@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Disallow WordPress admin areas
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /?s=
+Disallow: /search/
+
+# Disallow duplicate content parameters
+Disallow: /*?replytocom=
+Disallow: /*?ref=
+Disallow: /wp-json/
+
+# Allow search engines to access important assets
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/
+Allow: /wp-content/plugins/
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap_index.xml

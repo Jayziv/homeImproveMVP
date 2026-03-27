@@ -1,0 +1,51 @@
+{
+  "_comment": "WP Rocket recommended settings for affiliate site — import via WP Rocket > Tools > Import Settings",
+  "cache": {
+    "cache_enabled": true,
+    "cache_lifespan": 10,
+    "cache_mobile": true,
+    "do_caching_mobile_files": false,
+    "cache_logged_user": false
+  },
+  "file_optimization": {
+    "minify_css": true,
+    "minify_concatenate_css": true,
+    "minify_js": true,
+    "minify_concatenate_js": false,
+    "defer_all_js": true,
+    "defer_all_js_safe": true,
+    "exclude_defer_js": [
+      "/wp-includes/js/jquery/jquery.min.js"
+    ]
+  },
+  "media": {
+    "lazyload": true,
+    "lazyload_iframes": true,
+    "lazyload_youtube": true,
+    "image_dimensions": true,
+    "webp": true
+  },
+  "preload": {
+    "manual_preload": true,
+    "sitemap_preload": true,
+    "preload_links": true
+  },
+  "advanced_cache": {
+    "url_to_flush_on_update": [],
+    "query_strings": [],
+    "cache_reject_uri": [
+      "/go/"
+    ],
+    "_comment_reject": "Do not cache /go/ affiliate redirect URLs"
+  },
+  "cdn": {
+    "cdn_enabled": false,
+    "_comment": "Enable if using Cloudflare or separate CDN"
+  },
+  "heartbeat": {
+    "heartbeat_enabled": false,
+    "heartbeat_admin_behavior": "disable",
+    "heartbeat_editor_behavior": "reduce_periodicity",
+    "heartbeat_front_behavior": "disable"
+  }
+}
