@@ -15,9 +15,9 @@ export const siteConfig = {
 
   // ─── Branding ────────────────────────────────────────────────────────────
   /** Tailwind color name or hex. Controls CTA buttons, links, accents. */
-  primaryColor: "#2563eb",
+  primaryColor: "#C4501A",
   /** Used in navbar, footer background */
-  darkColor: "#111827",
+  darkColor: "#1A2C3D",
 
   // ─── Affiliate ───────────────────────────────────────────────────────────
   /** Amazon Associates tracking tag. Set after account approval. */
