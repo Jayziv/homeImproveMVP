@@ -20,8 +20,8 @@ Laminate flooring is one of the most beginner-friendly flooring projects. A 200 
 ## What You'll Need
 
 ### Tools
-- **Circular saw or miter saw** — for straight cross-cuts ([see circular saw picks](../best-circular-saws-diy))
-- **Jigsaw** — for cutting around door frames and obstacles ([see jigsaw picks](../best-cordless-jigsaws))
+- **Circular saw or miter saw** — for straight cross-cuts ([see circular saw picks](/buyer-guides/best-circular-saws-diy))
+- **Jigsaw** — for cutting around door frames and obstacles ([see jigsaw picks](/buyer-guides/best-cordless-jigsaws))
 - **Tapping block** (often included with flooring)
 - **Pull bar** (for tight rows near walls)
 - **Rubber mallet**
@@ -147,8 +147,8 @@ The last row almost always requires ripping (cutting lengthwise):
 
 ## Tool Recommendations
 
-- **Circular saw:** [Best circular saws for DIY →](../best-circular-saws-diy)
-- **Jigsaw:** [Best cordless jigsaws →](../best-cordless-jigsaws)
+- **Circular saw:** [Best circular saws for DIY →](/buyer-guides/best-circular-saws-diy)
+- **Jigsaw:** [Best cordless jigsaws →](/buyer-guides/best-cordless-jigsaws)
 - **Laminate installation kit** (tapping block, pull bar, spacers): **[CHECK PRICE ON AMAZON](AFFILIATE_LINK_PLACEHOLDER)**
 - **Floor moisture meter:** **[CHECK PRICE ON AMAZON](AFFILIATE_LINK_PLACEHOLDER)**
 

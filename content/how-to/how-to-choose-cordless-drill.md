@@ -121,7 +121,7 @@ How hard the drill twists. Higher = better for driving long screws and lag bolts
 **Best for heavy use:** DEWALT DCD996B or Milwaukee M18 FUEL
 **[CHECK PRICE ON AMAZON](AFFILIATE_LINK_PLACEHOLDER)**
 
-See our full **[Best Cordless Drills Under $100](../best-cordless-drills-under-100)** guide for detailed comparisons.
+See our full **[Best Cordless Drills Under $100](/buyer-guides/best-cordless-drills-under-100)** guide for detailed comparisons.
 
 ---
 

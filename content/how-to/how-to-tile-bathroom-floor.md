@@ -19,7 +19,7 @@ Tiling a bathroom floor is one of the most rewarding home improvement projects �
 ## What You'll Need
 
 ### Tools
-- **Wet tile saw** — ([see our top picks](../best-tile-saws-home-use))
+- **Wet tile saw** — ([see our top picks](/buyer-guides/best-tile-saws-home-use))
 - Notched trowel (1/4 × 3/8 inch V-notch for most floor tile)
 - Rubber float (for grouting)
 - Tile spacers (1/8 inch for floor tile — adjust per look desired)
@@ -157,7 +157,7 @@ Re-seal annually for heavy-use bathrooms.
 
 ## Tool Recommendations
 
-- **Wet tile saw:** [Best tile saws for home use →](../best-tile-saws-home-use)
+- **Wet tile saw:** [Best tile saws for home use →](/buyer-guides/best-tile-saws-home-use)
 - **Trowel:** OX Professional 1/4×3/8 V-notch — **[CHECK PRICE ON AMAZON](AFFILIATE_LINK_PLACEHOLDER)**
 - **Grout float:** QEP rubber grout float — **[CHECK PRICE ON AMAZON](AFFILIATE_LINK_PLACEHOLDER)**
 

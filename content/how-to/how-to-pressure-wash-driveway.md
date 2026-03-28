@@ -20,7 +20,7 @@ Pressure washing a driveway is one of the most satisfying home improvement tasks
 ## What You'll Need
 
 ### Equipment
-- **Pressure washer** — 2,000–3,000 PSI for concrete ([see our top picks](../best-pressure-washers-home-driveways))
+- **Pressure washer** — 2,000–3,000 PSI for concrete ([see our top picks](/buyer-guides/best-pressure-washers-home-driveways))
 - **Surface cleaner attachment** (recommended) — $30–50, eliminates stripes
 - **25° nozzle** (green) — for general concrete cleaning
 - **0° nozzle** (red) — for stubborn stains (use carefully)
@@ -188,7 +188,7 @@ Don't have a pressure washer yet? These are our top picks for driveway cleaning:
 - **Karcher K1700** (best compact) — **[CHECK PRICE →](AFFILIATE_LINK_PLACEHOLDER)**
 - **Simpson MSH3125** (best gas for heavy duty) — **[CHECK PRICE →](AFFILIATE_LINK_PLACEHOLDER)**
 
-For a full comparison, read our **[Best Pressure Washers for Home Driveways](../best-pressure-washers-home-driveways)** guide.
+For a full comparison, read our **[Best Pressure Washers for Home Driveways](/buyer-guides/best-pressure-washers-home-driveways)** guide.
 
 ---
 

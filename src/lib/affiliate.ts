@@ -58,7 +58,8 @@ export const affiliateLinks: Record<string, string> = {
   "skil-3540-02": `https://www.amazon.com/dp/B003Z4WDDE?tag=${siteConfig.amazonTag}`,
 
   // ── Oscillating Tools ────────────────────────────────────────────────────
-  "dewalt-dcs356b": `https://www.amazon.com/dp/B07D2FQWTG?tag=${siteConfig.amazonTag}`,
+  // TODO: verify correct ASIN for DCS356B (B07D2FQWTG was a duplicate of dewalt-dcs565b circular saw)
+  "dewalt-dcs356b": `https://www.amazon.com/s?k=dewalt+dcs356b+oscillating+multi+tool&tag=${siteConfig.amazonTag}`,
   "fein-amm500": `https://www.amazon.com/dp/B07CXHKL6D?tag=${siteConfig.amazonTag}`,
   "wen-2305": `https://www.amazon.com/dp/B00BK5AU5Y?tag=${siteConfig.amazonTag}`,
 

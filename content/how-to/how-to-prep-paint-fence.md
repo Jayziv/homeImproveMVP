@@ -20,8 +20,8 @@ A freshly painted fence transforms the look of any yard — but the prep work is
 ## What You'll Need
 
 ### Tools
-- Paint sprayer ([see our top picks](../best-paint-sprayers-fences)) OR brush and roller
-- Pressure washer ([see our guide](../best-pressure-washers-home-driveways)) OR stiff bristle brush
+- Paint sprayer ([see our top picks](/buyer-guides/best-paint-sprayers-fences)) OR brush and roller
+- Pressure washer ([see our guide](/buyer-guides/best-pressure-washers-home-driveways)) OR stiff bristle brush
 - Putty knife or 5-in-1 tool
 - Sandpaper (80-grit for stripping, 120-grit for prep, 220-grit for finish)
 - Random orbital sander (for large flat sections)
@@ -116,7 +116,7 @@ For fences: **solid stain** is the professional choice — the color opacity of 
 ### Application by Method
 
 **With a Paint Sprayer:**
-- Read our [best paint sprayers for fences guide](../best-paint-sprayers-fences) first
+- Read our [best paint sprayers for fences guide](/buyer-guides/best-paint-sprayers-fences) first
 - Mask all adjacent surfaces and plants
 - Work top to bottom, spray gun 10–12 inches from surface
 - Apply two thin coats; let the first dry before applying the second
@@ -157,10 +157,10 @@ For fences: **solid stain** is the professional choice — the color opacity of 
 
 ## Product Recommendations
 
-- **Paint sprayer for fences:** [See our top picks →](../best-paint-sprayers-fences)
+- **Paint sprayer for fences:** [See our top picks →](/buyer-guides/best-paint-sprayers-fences)
 - **Exterior primer:** Zinsser Bulls Eye 1-2-3 — **[CHECK PRICE ON AMAZON](AFFILIATE_LINK_PLACEHOLDER)**
 - **Solid fence stain:** Cabot Australian Timber Oil or Olympic Elite — **[CHECK PRICE ON AMAZON](AFFILIATE_LINK_PLACEHOLDER)**
-- **Pressure washer:** [Best pressure washers for home →](../best-pressure-washers-home-driveways)
+- **Pressure washer:** [Best pressure washers for home →](/buyer-guides/best-pressure-washers-home-driveways)
 
 ---
 
