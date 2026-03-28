@@ -35,7 +35,7 @@ export const siteConfig = {
 
   // ─── Analytics ───────────────────────────────────────────────────────────
   /** Google Analytics 4 Measurement ID. Set after GA4 setup. */
-  ga4MeasurementId: "REPLACE_WITH_G_XXXX",
+  ga4MeasurementId: "G-LFM3D473YR",
 
   // ─── Navigation ──────────────────────────────────────────────────────────
   navLinks: [
