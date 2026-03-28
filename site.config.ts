@@ -8,7 +8,7 @@
 export const siteConfig = {
   // ─── Identity ────────────────────────────────────────────────────────────
   name: "Drill Down Reviews",
-  domain: "drilldownreview.com",
+  domain: "drilldownreviews.com",
   tagline: "The Best Home Improvement Tools, Reviewed.",
   description:
     "Expert home improvement tool reviews, buyer guides, and how-to articles. We test and compare the best tools so you can buy with confidence.",
