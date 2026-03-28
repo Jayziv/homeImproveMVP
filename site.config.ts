@@ -7,8 +7,8 @@
 
 export const siteConfig = {
   // ─── Identity ────────────────────────────────────────────────────────────
-  name: "Handy Home Gear",
-  domain: "handyhomegear.com", // Update once domain is confirmed
+  name: "Drill Down Reviews",
+  domain: "drilldownreview.com",
   tagline: "The Best Home Improvement Tools, Reviewed.",
   description:
     "Expert home improvement tool reviews, buyer guides, and how-to articles. We test and compare the best tools so you can buy with confidence.",
@@ -27,7 +27,7 @@ export const siteConfig = {
 
   // ─── SEO ─────────────────────────────────────────────────────────────────
   /** Used in <title> suffix: "Best Cordless Drills | Handy Home Gear" */
-  titleSuffix: "Handy Home Gear",
+  titleSuffix: "Drill Down Reviews",
   /** Open Graph default image (place in /public/) */
   ogImage: "/og-default.png",
   /** Twitter/X handle without @ */
@@ -56,7 +56,7 @@ export const siteConfig = {
 
   // ─── Footer ──────────────────────────────────────────────────────────────
   affiliateDisclosure:
-    "Handy Home Gear is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We may also earn commissions from other affiliate programs. Affiliate relationships do not influence our editorial recommendations.",
+    "Drill Down Reviews is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We may also earn commissions from other affiliate programs. Affiliate relationships do not influence our editorial recommendations.",
   footerLinks: [
     { label: "About", href: "/about" },
     { label: "Contact", href: "/contact" },
