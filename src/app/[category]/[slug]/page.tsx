@@ -13,6 +13,8 @@ import {
 import { SchemaOrg } from "@/components/SchemaOrg";
 import { ArticleCard } from "@/components/ArticleCard";
 import { MailchimpSignupForm } from "@/components/MailchimpSignupForm";
+import { AdPlaceholder } from "@/components/AdPlaceholder";
+import { createArticleMdxComponents } from "@/lib/mdx-components";
 import { siteConfig } from "../../../../site.config";
 import type { Metadata } from "next";
 
@@ -39,6 +41,7 @@ export default async function ArticlePage({ params }: Props) {
   const related = getRelatedArticles(article, 3);
   const categoryLabel =
     (siteConfig.categories as Record<string, string>)[category] ?? category;
+  const mdxComponents = createArticleMdxComponents();
 
   return (
     <>
@@ -55,6 +58,9 @@ export default async function ArticlePage({ params }: Props) {
           <span className="text-gray-300">/</span>
           <span className="text-gray-700 truncate">{article.title}</span>
         </nav>
+
+        {/* Header leaderboard ad */}
+        <AdPlaceholder zone="header-leaderboard" />
 
         {/* Affiliate disclosure */}
         <div className="bg-brand-50 border border-brand-200 px-4 py-3 text-xs text-brand-900 mb-8">
@@ -89,8 +95,11 @@ export default async function ArticlePage({ params }: Props) {
 
         {/* Article body */}
         <article className="prose prose-lg max-w-none prose-headings:font-display prose-headings:uppercase prose-headings:tracking-wide prose-a:text-brand-600 prose-a:no-underline hover:prose-a:text-brand-700 prose-strong:text-gray-900">
-          <MDXRemote source={article.content} />
+          <MDXRemote source={article.content} components={mdxComponents} />
         </article>
+
+        {/* Below-article ad */}
+        <AdPlaceholder zone="below-article" />
 
         {/* Email signup */}
         <MailchimpSignupForm variant="inline" />
