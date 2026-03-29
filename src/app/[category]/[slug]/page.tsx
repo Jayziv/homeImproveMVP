@@ -12,6 +12,7 @@ import {
 } from "@/lib/seo";
 import { SchemaOrg } from "@/components/SchemaOrg";
 import { ArticleCard } from "@/components/ArticleCard";
+import { MailchimpSignupForm } from "@/components/MailchimpSignupForm";
 import { siteConfig } from "../../../../site.config";
 import type { Metadata } from "next";
 
@@ -90,6 +91,9 @@ export default async function ArticlePage({ params }: Props) {
         <article className="prose prose-lg max-w-none prose-headings:font-display prose-headings:uppercase prose-headings:tracking-wide prose-a:text-brand-600 prose-a:no-underline hover:prose-a:text-brand-700 prose-strong:text-gray-900">
           <MDXRemote source={article.content} />
         </article>
+
+        {/* Email signup */}
+        <MailchimpSignupForm variant="inline" />
 
         {/* Related articles */}
         {related.length > 0 && (

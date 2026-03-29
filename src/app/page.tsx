@@ -2,6 +2,7 @@ import { getAllArticles } from "@/lib/content";
 import { homepageMetadata, websiteSchema } from "@/lib/seo";
 import { ArticleCard } from "@/components/ArticleCard";
 import { SchemaOrg } from "@/components/SchemaOrg";
+import { MailchimpSignupForm } from "@/components/MailchimpSignupForm";
 import { siteConfig } from "../../site.config";
 import type { Metadata } from "next";
 
@@ -75,6 +76,8 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      <MailchimpSignupForm variant="hero" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Browse by category */}
