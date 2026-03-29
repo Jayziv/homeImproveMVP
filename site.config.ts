@@ -21,7 +21,7 @@ export const siteConfig = {
 
   // ─── Affiliate ───────────────────────────────────────────────────────────
   /** Amazon Associates tracking tag. Set after account approval. */
-  amazonTag: "REPLACE_WITH_YOUR_AMAZON_TAG",
+  amazonTag: "drilldown20us-20",
   /** CJ Affiliate Publisher ID. Set after CJ account approval. */
   cjPublisherId: "REPLACE_WITH_CJ_PUBLISHER_ID",
 
