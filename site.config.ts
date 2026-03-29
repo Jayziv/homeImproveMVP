@@ -23,7 +23,7 @@ export const siteConfig = {
   /** Amazon Associates tracking tag. Set after account approval. */
   amazonTag: "drilldown20us-20",
   /** CJ Affiliate Publisher ID. Set after CJ account approval. */
-  cjPublisherId: "REPLACE_WITH_CJ_PUBLISHER_ID",
+  cjPublisherId: "7913210",
 
   // ─── SEO ─────────────────────────────────────────────────────────────────
   /** Used in <title> suffix: "Best Cordless Drills | Handy Home Gear" */
