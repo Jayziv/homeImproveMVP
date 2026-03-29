@@ -12,8 +12,6 @@ internal_links:
   - how-to-pressure-wash-driveway
 ---
 
-# Fiberglass vs Wood Extension Ladder: Which Is Safer? (2025)
-
 Extension ladders are essential for exterior maintenance, painting, gutter cleaning, and roof access. Choosing the wrong type can create real safety risks, so understanding the differences between fiberglass and wood is genuinely important. This comparison examines the Werner D1520-2 (fiberglass) and the Louisville FE3220 (wood) to help you make a well-informed choice.
 
 ---

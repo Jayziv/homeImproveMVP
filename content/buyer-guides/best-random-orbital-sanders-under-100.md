@@ -9,8 +9,6 @@ schema_type: ItemList
 affiliate_program: Amazon Associates
 ---
 
-# Best Random Orbital Sanders Under $100 (2025): Smooth Finish on a Budget
-
 A random orbital sander is one of the most essential finishing tools for any woodworker or DIYer. Unlike belt sanders, the random orbital motion prevents swirl marks and leaves a smooth, professional finish. The good news: you do not need to spend a lot to get excellent results. Here are the five best random orbital sanders under $100 in 2025.
 
 ---

@@ -12,8 +12,6 @@ internal_links:
   - how-to-install-ceiling-fan
 ---
 
-# How to Weatherstrip a Door (Save Energy and Block Drafts)
-
 An improperly sealed exterior door is one of the biggest sources of energy loss in a home — a gap the size of a nickel around a standard door is equivalent to leaving a small window cracked open all year. Drafts make rooms uncomfortable, drive up heating and cooling bills, and allow moisture, insects, and noise to enter. Replacing worn weatherstripping is one of the highest-return energy efficiency upgrades you can make: materials cost $15-$40, the job takes a couple of hours, and the savings on your energy bill can pay it back within a single season. This guide shows you how to identify gaps, choose the right weatherstripping type, and install it correctly for a tight, durable seal.
 
 **What you'll need:**

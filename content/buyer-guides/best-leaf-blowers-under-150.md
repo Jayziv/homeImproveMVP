@@ -9,8 +9,6 @@ schema_type: ItemList
 affiliate_program: Amazon Associates
 ---
 
-# Best Leaf Blowers Under $150 (2025)
-
 You don't need to spend $200+ to get a reliable leaf blower. The best leaf blowers under $150 handle everything from clearing a deck to blowing a full lawn's worth of leaves to the curb.
 
 ---

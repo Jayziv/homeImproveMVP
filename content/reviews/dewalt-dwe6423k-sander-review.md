@@ -9,8 +9,6 @@ rating: 4.6
 affiliate_program: Amazon Associates
 ---
 
-# DEWALT DWE6423K Random Orbital Sander Review
-
 **Rating: 4.6/5**
 
 The DEWALT DWE6423K is one of Amazon's best-selling random orbital sanders. At around $65–70, it comes with a dust bag, a hard case, and five 80-grit hook-and-loop discs. We've tested it across wood finishing, paint removal, and furniture prep. Here's our full verdict.

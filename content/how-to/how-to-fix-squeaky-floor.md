@@ -12,8 +12,6 @@ internal_links:
   - best-cordless-drills-under-100
 ---
 
-# How to Fix a Squeaky Floor (5 Methods That Actually Work)
-
 A squeaky floor is more than an annoyance — every creak and groan that wakes up sleeping family members or announces your midnight kitchen raid is a reminder that something beneath your feet has worked loose. The good news is that most floor squeaks are fixable without tearing up the floor, and many repairs take less than 30 minutes. Squeaks happen when wood subfloor panels or hardwood flooring rub against nails, each other, or the joists below. This guide covers five proven methods ranked from simplest to most involved, so you can start with the easiest option and escalate as needed.
 
 **What you'll need:**

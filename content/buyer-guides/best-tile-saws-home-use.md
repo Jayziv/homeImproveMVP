@@ -9,8 +9,6 @@ schema_type: ItemList
 affiliate_program: Amazon Associates
 ---
 
-# Best Tile Saws for Home Use (2025)
-
 Cutting tile cleanly is impossible without the right tool. A wet tile saw cools the blade with water, extending blade life and delivering smooth, chip-free cuts. This guide covers the best tile saws for home use — from portable models for bathroom floors to full-size saws for large projects.
 
 ---

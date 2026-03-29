@@ -10,8 +10,6 @@ affiliate_program: Amazon Associates
 rating: 4.5
 ---
 
-# DEWALT DCD777C2 Review: Is This the Best Cordless Drill Under $100?
-
 **Rating: 4.5/5**
 
 The DEWALT DCD777C2 is consistently one of Amazon's best-selling cordless drill kits. It ships with two 1.5Ah batteries, a charger, and a kit bag — all for under $100 (regularly). But does it live up to the DEWALT reputation? We put it through its paces.

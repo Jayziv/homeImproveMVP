@@ -12,8 +12,6 @@ internal_links:
   - best-oscillating-multi-tools
 ---
 
-# How to Patch Drywall: Step-by-Step Guide for Clean Repairs
-
 Drywall damage is one of the most common home repair challenges — from nail holes left by old picture frames to doorknob-sized craters, every wall eventually needs attention. The good news is that patching drywall is a skill any DIYer can master with a bit of patience, the right tools, and the proper technique. This guide walks you through three repair methods depending on the size of the hole, so you can achieve a smooth, paint-ready finish every time.
 
 **What you'll need:**

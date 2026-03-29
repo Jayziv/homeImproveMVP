@@ -12,8 +12,6 @@ internal_links:
   - how-to-choose-cordless-drill
 ---
 
-# How to Install a Ceiling Fan (DIY Step-by-Step Guide)
-
 Installing a ceiling fan is one of the most impactful DIY electrical projects a homeowner can tackle. A ceiling fan adds air circulation and comfort, reduces reliance on air conditioning, and dramatically changes the visual character of a room — all for a few hundred dollars in materials and a few hours of work. If you are replacing an existing light fixture or ceiling fan, the wiring is already in place and the job is very straightforward. If you are installing in a new location, you will need to run wiring and install a new electrical box, which requires more advanced electrical knowledge. This guide covers the most common scenario: replacing an existing light fixture or fan with a new ceiling fan.
 
 **What you'll need:**

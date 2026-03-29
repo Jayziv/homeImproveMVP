@@ -9,8 +9,6 @@ schema_type: ItemList
 affiliate_program: Amazon Associates
 ---
 
-# Best Oscillating Multi-Tools (2025)
-
 An oscillating multi-tool is one of the most versatile power tools in any toolbox. It cuts, sands, scrapes, and grinds in tight spaces that no other tool can reach. This guide covers the best oscillating multi-tools for home renovation, plumbing, flooring, and general repair.
 
 ---

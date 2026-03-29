@@ -9,8 +9,6 @@ schema_type: ItemList
 affiliate_program: Amazon Associates
 ---
 
-# Best Cordless Drills Under $100 (2025): Top Picks for Every DIYer
-
 Finding a reliable cordless drill on a budget doesn't mean sacrificing performance. The best cordless drills under $100 can handle everything from hanging shelves to assembling furniture — without draining your wallet.
 
 We've researched and tested the top-selling models to bring you this shortlist of the best budget cordless drills available right now.

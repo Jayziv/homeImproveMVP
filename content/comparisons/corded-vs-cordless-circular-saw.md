@@ -12,8 +12,6 @@ internal_links:
   - dewalt-vs-milwaukee-cordless-drills
 ---
 
-# Corded vs Cordless Circular Saw: Pros and Cons (2025)
-
 A circular saw is one of the most versatile tools in any workshop or job site — but should you go corded or cordless? Both have real advantages depending on where and how you work. This comparison pits the DEWALT DWE575SB (corded) against the DEWALT DCS391B (cordless) to help you make the right call.
 
 ---

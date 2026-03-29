@@ -12,8 +12,6 @@ internal_links:
   - dewalt-vs-milwaukee-cordless-drills
 ---
 
-# Ryobi vs Milwaukee Drill: Which Is Worth It in 2025?
-
 When it comes to cordless drills, few matchups are more debated than Ryobi vs Milwaukee. One brand dominates the budget and DIY market while the other rules job sites. Knowing which one belongs in your toolbox depends on how you plan to use it and how much you want to spend.
 
 ---

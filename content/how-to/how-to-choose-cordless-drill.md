@@ -11,8 +11,6 @@ internal_links:
   - dewalt-vs-milwaukee-cordless-drills
 ---
 
-# How to Choose a Cordless Drill for Home Projects
-
 Buying a cordless drill should be simple — but with dozens of models across six major brands, most people end up confused. This guide breaks down every decision you need to make to choose the right drill for your home.
 
 ---

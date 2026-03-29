@@ -11,8 +11,6 @@ internal_links:
   - best-pressure-washers-home-driveways
 ---
 
-# How to Prep and Paint a Fence: Step-by-Step Guide
-
 A freshly painted fence transforms the look of any yard — but the prep work is what makes it last. A coat of paint on a dirty, degraded fence peels within a year. Done right, a painted fence lasts 5–8 years before needing attention.
 
 ---

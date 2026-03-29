@@ -9,8 +9,6 @@ schema_type: ItemList
 affiliate_program: Amazon Associates
 ---
 
-# Best Pressure Washers Under $200 (2025): Top Picks for Driveways and Decks
-
 Pressure washers have come a long way in the budget segment — today you can get a genuinely capable electric pressure washer for well under $200. From blasting grime off a concrete driveway to refreshing a weathered deck, these five models offer the best bang for your buck in 2025.
 
 ---

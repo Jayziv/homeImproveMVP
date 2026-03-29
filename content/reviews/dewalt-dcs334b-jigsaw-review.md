@@ -9,8 +9,6 @@ rating: 4.7
 affiliate_program: Amazon Associates
 ---
 
-# DEWALT DCS334B Jigsaw Review (2025)
-
 **Rating: 4.7/5**
 
 The DEWALT DCS334B is a 20V MAX brushless cordless jigsaw — and one of the best in its class. Variable speed, 4 orbital settings, keyless blade change, and compatibility with the full DEWALT 20V ecosystem make it a top choice for DIYers and light contractors alike.

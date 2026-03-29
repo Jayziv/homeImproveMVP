@@ -9,8 +9,6 @@ rating: 4.8
 affiliate_program: Amazon Associates
 ---
 
-# Milwaukee M18 FUEL Drill Review (2025): The Professional Standard
-
 **Rating: 4.8/5**
 
 The Milwaukee M18 FUEL drill is the benchmark professional cordless drill. Its POWERSTATE brushless motor, REDLITHIUM battery technology, and REDLINK PLUS electronics work together to deliver the highest performance in its class. But is it worth the premium over DEWALT and Makita? We put it through extensive testing to find out.

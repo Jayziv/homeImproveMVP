@@ -11,8 +11,6 @@ internal_links:
   - best-pressure-washers-home-driveways
 ---
 
-# How to Pressure Wash a Driveway: Step-by-Step Guide
-
 Pressure washing a driveway is one of the most satisfying home improvement tasks — it transforms a grey, stained surface back to near-new condition in an afternoon. This guide walks through the entire process, from choosing the right machine to finishing techniques.
 
 ---

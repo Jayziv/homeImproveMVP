@@ -12,8 +12,6 @@ internal_links:
   - how-to-patch-drywall
 ---
 
-# How to Hang Shelves Without Studs (Safe Methods for Drywall)
-
 Finding a stud is the gold standard for hanging heavy items on walls — but studs are not always where you need them. Whether you are installing floating shelves in a bathroom, hanging a display shelf in a hallway, or mounting shelving in a spot between studs, there are several reliable methods for hanging shelves directly in drywall without stud support. Done correctly, these methods can safely hold 20, 50, or even 100+ pounds per anchor. This guide walks you through the four best techniques — toggle bolts, molly bolts, drywall anchors, and French cleats — so you can choose the right method for your weight requirements and wall type.
 
 **What you'll need:**

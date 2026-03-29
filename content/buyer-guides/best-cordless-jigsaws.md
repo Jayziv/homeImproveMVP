@@ -8,8 +8,6 @@ schema_type: ItemList
 affiliate_program: Amazon Associates
 ---
 
-# Best Cordless Jigsaws (2025)
-
 A cordless jigsaw is the go-to tool for cutting curves, irregular shapes, and trim work. Whether you're cutting countertops, installing flooring, or shaping decorative woodwork, the right jigsaw makes it easy.
 
 ---

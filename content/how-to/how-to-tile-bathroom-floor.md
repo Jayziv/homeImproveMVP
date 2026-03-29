@@ -10,8 +10,6 @@ internal_links:
   - best-tile-saws-home-use
 ---
 
-# How to Tile a Bathroom Floor: Complete DIY Guide
-
 Tiling a bathroom floor is one of the most rewarding home improvement projects — it transforms a space completely and adds lasting value. A standard 60 sq ft bathroom floor takes a weekend with the right preparation.
 
 ---

@@ -8,8 +8,6 @@ schema_type: Article
 affiliate_program: Amazon Associates
 ---
 
-# Makita vs Bosch Random Orbital Sanders (2025)
-
 Makita and Bosch are the two most respected brands for precision woodworking tools. Both make outstanding random orbital sanders — but they excel in different areas. Here's how they compare.
 
 ---

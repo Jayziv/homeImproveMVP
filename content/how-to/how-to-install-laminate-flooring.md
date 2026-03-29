@@ -11,8 +11,6 @@ internal_links:
   - best-cordless-jigsaws
 ---
 
-# How to Install Laminate Flooring: DIY Step-by-Step Guide
-
 Laminate flooring is one of the most beginner-friendly flooring projects. A 200 sq ft room can be completed in a weekend, and the tools required are minimal. This guide covers everything from subfloor prep to final trim installation.
 
 ---

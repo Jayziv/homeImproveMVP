@@ -8,8 +8,6 @@ schema_type: ItemList
 affiliate_program: Amazon Associates
 ---
 
-# Best Rotary Hammers for Home Use (2025)
-
 When you need to drill into concrete, brick, or masonry, a standard drill won't cut it. A rotary hammer combines rotation with a hammering action to power through hard materials efficiently. This guide covers the best rotary hammers for home renovation and DIY masonry work.
 
 ---
